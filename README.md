@@ -77,3 +77,7 @@ Healthcare Policy Planning – Using aggregated data to design region-specific a
 Fraud Detection – Detecting unusual patterns in claims which might indicate fraudulent activity.
 Predictive Analytics – Feeding this cleaned and aggregated data into machine learning models to predict future claim amounts, detect high-risk individuals, or forecast healthcare costs.
 Business Intelligence Dashboards – The output from Task 1 can be directly used in BI tools such as Tableau, Power BI, or integrated into dashboards created in Task 3 for interactive visualization.
+
+
+OUTPUT
+<img width="1146" height="439" alt="Image" src="https://github.com/user-attachments/assets/6597bfc8-9e67-4f3c-baf3-30a5a2d90075" />
