@@ -13,7 +13,9 @@
 *MENTOR*: NEELA SANTHOSH KUMAR
 
 Task 1 – Big Data Analysis
+
 *DESCRIPTION*
+
 The primary goal of Task 1 was to perform analysis on a large dataset using a scalable big data processing tool such as PySpark or Dask.
 The dataset chosen for this task was insurance_data.csv, which contains records of health insurance claims.
 The dataset includes multiple attributes such as:
@@ -51,7 +53,7 @@ Diabetic and non-diabetic patients showed slightly different average BMI values.
 Male patients had a higher average claim amount compared to female patients.
 These results can help insurance companies understand patterns in claim amounts and make informed policy decisions.
 
-*Tools Used*
+*TOOLS USED*
 
 PySpark – The Python API for Apache Spark, a distributed computing framework used to process large datasets efficiently.
 It allows operations to be performed on data that is too large to fit into memory by splitting it across multiple cores or even multiple machines.
@@ -66,7 +68,7 @@ The task was performed using:
 *Google Colab* – A cloud-based Python notebook environment provided by Google, which removes the need for local installation of Spark and Java. It comes with a ready-to-use Python environment and the ability to install PySpark directly within the notebook.
 *GitHub* – For storing and version-controlling the project files, ensuring the work can be shared and pulled to other environments.
 
-*Applications*
+*APPLICATIONS*
 
 This kind of big data analysis has applications in:
 
