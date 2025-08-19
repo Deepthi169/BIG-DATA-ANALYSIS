@@ -12,11 +12,9 @@
 
 *MENTOR*: NEELA SANTHOSH KUMAR
 
-Task 1 – Big Data Analysis
-
 *DESCRIPTION*
 
-The primary goal of Task 1 was to perform analysis on a large dataset using a scalable big data processing tool such as PySpark or Dask.
+The primary goal of Task was to perform analysis on a large dataset using a scalable big data processing tool such as PySpark or Dask.
 The dataset chosen for this task was insurance_data.csv, which contains records of health insurance claims.
 The dataset includes multiple attributes such as:
 
